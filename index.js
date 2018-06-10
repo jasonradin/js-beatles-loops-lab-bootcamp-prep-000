@@ -7,5 +7,6 @@ function theBeatlesPlay(arrayM, arrayI) {
 }
 
 function johnLennonFacts(arrayF) {
+ var newFacts = []; 
  
 }
