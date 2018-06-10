@@ -6,4 +6,6 @@ function theBeatlesPlay(arrayM, arrayI) {
   return arr; 
 }
 
-function 
+function johnLennonFacts(arrayF) {
+  while()
+}
