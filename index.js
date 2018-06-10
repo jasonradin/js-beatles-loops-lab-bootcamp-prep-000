@@ -7,8 +7,5 @@ function theBeatlesPlay(arrayM, arrayI) {
 }
 
 function johnLennonFacts(arrayF) {
-  while(var i < arrayF.length) {
-    
-    i +=1 
-  }
+ 
 }
